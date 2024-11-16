@@ -5,3 +5,7 @@ This was an experimental project I worked on, called the Virtual Calculator. Her
 
 Computer Vision file - contains code for capturing query.
 Gemini - contains experimenation with gemini which responds to the query taken above(demonstrated in file.)
+
+
+Note - Answer may vary based on the clarity with which we input question, and model efficiency.
+This project was done to experiment the many use cases of CV and gen AI together.
